@@ -3,5 +3,10 @@
 	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
-	"Plugins": []
+	"Plugins": [
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		}
+	]
 }
